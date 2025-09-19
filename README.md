@@ -75,6 +75,8 @@ Developed an e-commerce platform for buying and selling electronics with:
 - Software Engineering Practices
 
 ---
+📖 **My First Book:** "براندك يبدأ من قصتك" – اكتشف كيف يمكن لقصتك أن تبني براندك الشخصي بطريقة أصيلة وملهمة.  
+🔗 [Read it on GitHub](#)
 
 ## 📊 GitHub Stats
 
