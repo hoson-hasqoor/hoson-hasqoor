@@ -75,9 +75,11 @@ Developed an e-commerce platform for buying and selling electronics with:
 - Software Engineering Practices
 
 ---
-📖 **My First Book:** "براندك يبدأ من قصتك" – اكتشف كيف يمكن لقصتك أن تبني براندك الشخصي بطريقة أصيلة وملهمة.  
-🔗 [Read it on GitHub](#)
 
+📖 ## My First Book:## "براندك يبدأ من قصتك" – اكتشف كيف يمكن لقصتك أن تبني براندك الشخصي بطريقة أصيلة وملهمة.  
+🔗 [Read it on GitHub](https://github.com/hoson-hasqoor/my-first-book/blob/main/Beige%20Neutral%20Brand%20Style%20Course%20Workbook%20Booklet.pdf)
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
